@@ -1,5 +1,5 @@
-id: FP_MFA
-name: FP_MFA
+id: myfirstapp
+name: myfirstapp
 self: https://github.com/RoffRob/FP_MFA/blob/main/lx-manifest.yaml
 owner: Rob.Roff@leanix.net
 links:
