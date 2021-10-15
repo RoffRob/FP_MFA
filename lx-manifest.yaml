@@ -1,4 +1,7 @@
 id: FP_MFA
 name: FP_MFA
 self: https://github.com/RoffRob/FP_MFA/blob/main/lx-manifest.yaml
-owner: rob.roff@leanix.net
+owner: Rob.Roff@leanix.net
+links:
+  - name: Github
+    url: https://github.com/RoffRob/FP_MFA
